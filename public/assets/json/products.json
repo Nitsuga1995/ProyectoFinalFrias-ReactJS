@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "title": "Nintendo Switch Oled - Zelda Tear of The Kingdom",
+        "description": "Consola de video juegos.",
+        "category": "Console",
+        "image": "https://gorilagames.com/img/Public/1019-producto-nintendo-switch-oled-zelda-tears-edition-1-5070.jpg",
+        "price": 325000,
+        "stock": 25
+    },
+    {
+        "id": 2,
+        "title": "Nintendo SP - Zelda Limited Edition",
+        "description": "Consola de video juegos.",
+        "category": "Console",
+        "image": "https://retrogeektoys.com/wp-content/uploads/2019/10/Nintendo-Gameboy-Advance_Limited-Edition_Zelda.jpg",
+        "price": 155000,
+        "stock": 2
+    },
+    {
+        "id": 3,
+        "title": "The Legend Of Zelda Tear Of The Kingdom",
+        "description": "Juego de Nintendo Switch.",
+        "category": "Games",
+        "image": "https://lh3.googleusercontent.com/pw/AJFCJaW7oSW4OI73kGA863yyv0iDJkCMTfLPs57BVRcuYbrMIswsKqRECV5zQU5qs_e4YPkjZoBX3RP8115wJv_KefxPsxW7ojw_kxn9lhCZ5LxxbY7uOstKgHS45zj8rxmRPV_3Y0y0ZqEZIdaj-PstuUu5cA=w500-h500-s-no?authuser=0",
+        "price": 40000,
+        "stock": 25
+    },
+    {
+        "id": 4,
+        "title": "The Legend Of Zelda Breath Of The Wild",
+        "description": "Juego de Nintendo Switch.",
+        "category": "Games",
+        "image": "https://lh3.googleusercontent.com/pw/AJFCJaUm2_T1EwQNxde0RvW85UEQDDnWTK9BjWyRqHpRyk0Rz-jlifSgB0eHu_hbvqWbGvYgLvIVAaX1xhVlU1c4I7la6XGoD5iqDK6QuG6GyzuE4p7RUZ3arwfk00svU7Xf_u9WVhjSk9YtoxiAvwFyLWRUMA=w500-h500-s-no?authuser=0",
+        "price": 35000,
+        "stock": 40
+    },
+    {
+        "id": 5,
+        "title": "The Legend Of Zelda Links Awakening",
+        "description": "Juego de Nintendo Switch.",
+        "category": "Games",
+        "image": "https://lh3.googleusercontent.com/pw/AJFCJaVbl_oo3iyexGGvrZc58HQkXE0MSGsajx1ZjWhW55FhbcI8vumsXzqphwmIlFhP9QAESwVO3uBnnNDyBKB6KQzoDyL61fLz8Wbyk1jiJaDuznFS7lQeh-3mNdEH5CaWbJnC3YMO2bu5QLQujB_m8zTxEA=w500-h500-s-no?authuser=0",
+        "price": 35000,
+        "stock": 5
+    },
+    {
+        "id": 6,
+        "title": "The Legend Of Zelda Skyward Sword",
+        "description": "Juego de Nintendo Wii U.",
+        "category": "Games",
+        "image": "https://lh3.googleusercontent.com/pw/AJFCJaVuJnCYhShDd7ilUI2sF4nn_2hpffTRIBZ2mbyzf1A9WPDEtuJa1GtirSUnQes1W53g_q00agAepfIh0VpQMoS24f4oi3_e0VLQTwnMPHiDE79mtpxULp2ZQSQjXYv4UkfMfnnb6zjKe2TzFT1DiwTM0A=w500-h500-s-no?authuser=0",
+        "price": 30000,
+        "stock": 2
+    },
+    {
+        "id": 7,
+        "title": "The Legend Of Zelda Ocarina Of Time",
+        "description": "Juego de Nintendo 3DS.",
+        "category": "Games",
+        "image": "https://lh3.googleusercontent.com/pw/AJFCJaXN0t334CkZUFxv3Vc_aGBXJXvR86hpq50VF2vP3N_XjMhdeKN9GDRT2pCILlODoj-wG_LVVfgFUGqP5RRCUjcOZyaoYe7jW5IHwtsNgAvnRlBUck6wMG2ikylJKiequo9B2ANf1XLhscIRS7EJx8io6w=w500-h500-s-no?authuser=0",
+        "price": 95000,
+        "stock": 6
+    },
+    {
+        "id": 8,
+        "title": "The Legend Of Zelda Majoras Mask",
+        "description": "Juego de Nintendo 3DS.",
+        "category": "Games",
+        "image": "https://lh3.googleusercontent.com/pw/AJFCJaVVTUPtTnDQfqxoFW59sXJLETF_FSFKYfNNJMpakorFXzB-jY6xQhNt2Wj4EyAuWeVoB4cLnm8GzW1ImDniz00U-YRf2RwtAZuzM3kzLzdirldO67ExRZC5Gy1RD3BvZrpjU-0LWFlNgeI2yyh0rsvDYA=w500-h500-s-no?authuser=0",
+        "price": 90000,
+        "stock": 3
+    },
+    {
+        "id": 9,
+        "title": "The Legend Of Zelda The Minish Cap",
+        "description": "Juego de Nintendo Game Boy.",
+        "category": "Games",
+        "image": "https://lh3.googleusercontent.com/pw/AJFCJaUvoJd7kf7WDxyMwy_nN54sN5aJW3n7Yac6atYVHUqMelaDCcqMLWOpXnlWrm35nyr3FpVEljqHJVKdHqKk4o8TbkylNqMGd94YjIvKKD2pdSIitkH7tRC375aBvNfTY-1glNqt018hKkuHwHac3pip7Q=w500-h500-s-no?authuser=0",
+        "price": 70000,
+        "stock": 1
+    },
+    {
+        "id": 10,
+        "title": "Amiibo Link - The Legend of Zelda Tear of The Kingdom",
+        "description": "Amiibo de la saga The Legend of Zelda.",
+        "category": "Amiibo",
+        "image": "https://lh3.googleusercontent.com/pw/AJFCJaXGp0xhvyqnDW2-radKFoxTZ8wlBTAVvWNejn4vyd0FobRczNEGx96neX2D4Zf43wFla9mNhvQW452VZEVrKMFzt1PHuQAfp4GYA7QCzw-srvOf5BnPpCMLExf6YpTuucar1aGbQ7BW_aGHsYdSrCUcuA=w500-h500-s-no?authuser=0",
+        "price": 32500,
+        "stock": 5
+    },
+    {
+        "id": 11,
+        "title": "Amiibo Zelda - The Legend of Zelda Tear of The Kingdom",
+        "description": "Amiibo de la saga The Legend of Zelda.",
+        "category": "Amiibo",
+        "image": "https://lh3.googleusercontent.com/pw/AJFCJaUR9xi4lC7_H4JuZZbEOGasCvBe9jFUND7Rsj-sp_yKRGwUzyF3NOjl01Ss2VVmdtEKTyxSEFYFzKZYUKtV0NTFQK806PBbbzsYpna4KJOnIVI4JeulYJaprR_hrpR2ERDuVVYVCxyIgT8QbWDNWAlfig=w500-h500-s-no?authuser=0",
+        "price": 32500,
+        "stock": 10
+    },
+    {
+        "id": 12,
+        "title": "Amiibo Zelda - The Legend of Zelda Breath of The Wild",
+        "description": "Amiibo de la saga The Legend of Zelda.",
+        "category": "Amiibo",
+        "image": "https://lh3.googleusercontent.com/pw/AJFCJaWstfoXEPXdzGE02D10Qq-HqOE1J7MIcTBGgD7-eVrszuzR5Xa1lIh7Ie8yvT0U0g-k5fMLYkfFscRuiTtokP_njMath8uKQGiFlE3jIuaUsrvKddpTRjpM52tDHc-zUJvx9uLlFsAOleP57nmNHkVf7w=w500-h500-s-no?authuser=0",
+        "price": 32500,
+        "stock": 10
+    }
+]
